@@ -8,12 +8,12 @@
 	"buffers":
 	[
 		{
-			"file": "/D/CSE/CSS, HTML & JavaScript/index.html",
+			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 122,
+				"buffer_size": 117,
 				"encoding": "UTF-8",
-				"line_ending": "Windows"
+				"line_ending": "Unix"
 			}
 		}
 	],
@@ -49,6 +49,7 @@
 	},
 	"file_history":
 	[
+		"/D/CSE/CSS, HTML & JavaScript/index.html"
 	],
 	"find":
 	{
@@ -88,19 +89,19 @@
 			[
 				{
 					"buffer": 0,
-					"file": "/D/CSE/CSS, HTML & JavaScript/index.html",
+					"file": "index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 122,
+						"buffer_size": 117,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								114,
-								114
+								117,
+								117
 							]
 						],
 						"settings":
